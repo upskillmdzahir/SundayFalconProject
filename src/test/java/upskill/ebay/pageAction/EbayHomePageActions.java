@@ -34,3 +34,4 @@ public class EbayHomePageActions {
 		EbayHomePageLocatorsObj.btnSearch.click();
 	}
 }
+//>>
